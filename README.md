@@ -29,12 +29,12 @@ Apasionado por el desarrollo web y la tecnología, enfocado en crear Single Page
 ### 🚀 Proyectos Destacados
 
 *   🛒 **E-commerce de Perfumería** (Proyecto Grupal)
-    *   *Descripción:* Tienda virtual completa con catálogo de productos, con gestión de carrito (simulado).
+    *    Tienda virtual completa con catálogo de productos, con gestión de carrito (simulado).
     *   *Stack:*  HTML5 | CSS3
     *   👉 [Ver Repositorio en GitHub](https://github.com/Patomon18/Perfumeria-proyecto)
 
 *   🎲 **Mesa para 5 - Tienda de Juegos de Mesa** (Proyecto Grupal)
-    *   *Descripción:* Plataforma e-commerce especializada en juegos de mesa, desarrollada bajo metodologías ágiles (Scrum/Trello) con vistas dinámicas y componentes reutilizables.
+    *    Plataforma e-commerce especializada en juegos de mesa, desarrollada bajo metodologías ágiles (Scrum/Trello) con vistas dinámicas y componentes reutilizables.
     *   *Stack:* React | TypeScript | Vite | Tailwind CSS
     *   👉 [Ver Repositorio en GitHub](https://github.com/alejimenezyb-sys/Mesa-para-5)
 ### **Conectemos**
